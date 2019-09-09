@@ -1,4 +1,3 @@
-/*! made by shenshi, time:1567737979485 */
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
@@ -92,9 +91,10 @@
   !*** ./src/main.js ***!
   \*********************/
 /*! no static exports found */
-/***/ (function(module, exports) {
+/***/ (function(module, exports, __webpack_require__) {
 
-eval("\n\n//# sourceURL=webpack:///./src/main.js?");
+"use strict";
+eval("\n\nvar sum = function sum(a, b) {\n  return a + b;\n};\nconsole.log(sum(2, 3));//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9zcmMvbWFpbi5qcz81NmQ3Il0sIm5hbWVzIjpbInN1bSIsImEiLCJiIiwiY29uc29sZSIsImxvZyJdLCJtYXBwaW5ncyI6Ijs7QUFBQSxJQUFJQSxNQUFNLFNBQU5BLEdBQU0sQ0FBQ0MsQ0FBRCxFQUFHQyxDQUFIO0FBQUEsU0FBU0QsSUFBRUMsQ0FBWDtBQUFBLENBQVY7QUFDQUMsUUFBUUMsR0FBUixDQUFZSixJQUFJLENBQUosRUFBTSxDQUFOLENBQVoiLCJmaWxlIjoiLi9zcmMvbWFpbi5qcy5qcyIsInNvdXJjZXNDb250ZW50IjpbImxldCBzdW0gPSAoYSxiKSA9PiBhK2I7XHJcbmNvbnNvbGUubG9nKHN1bSgyLDMpKTsgIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./src/main.js\n");
 
 /***/ })
 
